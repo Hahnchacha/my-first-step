@@ -1,0 +1,68 @@
+print(5)
+print(-10)
+print(3.14)
+print(5+3)
+print(2*4)
+print(3*(4-4))
+
+print("풍선")
+print("나바")
+print("ㅋㅋㅋㅋ"*3)
+
+# 주석
+
+print(4>2)
+
+print(not (4>22))
+
+animal = "강아지"
+name = "연탄이"
+age = 4
+hobby = "산책"
+is_adult = age >= 3
+
+
+print("우리집 " + animal + " 의 이름은 " + name + "에요")
+print(name + "는 " + str(age) + "살이며, " + hobby + "을 아주 좋아해요")
+print(name + "는 어른일까요?" + str(is_adult))
+
+print ( 231 )
+
+"""가나다
+가이고더 ㅓ너어"""
+
+# 아기고야
+
+station = "인천공항"
+
+print( station +  "행 열차가 들어오고 있습니다 ")
+
+print ( 1+1 )
+
+print (2**3) # 8
+print (5%3) # 나머지 구하기 2 
+print (10%3) # 나머지 1
+print (5//3) #1 몫 구하기
+print (10//3) #3 몫 구하기
+
+print (13 > 4) # true
+print ( 4 <= 5)
+
+print ( 3==3 )
+print ( 2*3 == 2+4)
+
+print ( 4==5 ) # false
+
+print ( 1 != 3 ) # 등호 간에 같지 않다 불리안
+print ( not ( 1 != 2-1 ) )
+print ( (3 + 3 < 10) and (2 - 1 < 3) )
+
+print ( 5 > 3 > 2)
+
+number = 2 + 3 + 4
+print ( number )
+print ( number + 2 )
+
+number -= 2
+
+  
